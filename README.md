@@ -3,7 +3,6 @@
 > **Project Category:** Full-Stack Commercial Cinema Booking Web Platform  
 > **Project Owner:** Aditya Vishwakarma  
 > **Stack:** MERN (MongoDB, Express.js, React.js 18 / Vite, Node.js v24) with Socket.IO, Multer & Razorpay  
-> **Repository:** [binarybrain-7/iMovies---Movie-Ticket-Booking-Made-Simple](https://github.com/binarybrain-7/iMovies---Movie-Ticket-Booking-Made-Simple)
 
 ---
 
@@ -252,5 +251,5 @@ All **30 integration tests** pass cleanly with zero failures.
 
 ## 10. License & Author
 
-- **Author:** Aditya Vishwakarma  
+- **Author:** Samridhi Rathore  
 - **Project:** [iMovies — Movie Ticket Booking Made Simple](https://github.com/binarybrain-7/iMovies---Movie-Ticket-Booking-Made-Simple)  
