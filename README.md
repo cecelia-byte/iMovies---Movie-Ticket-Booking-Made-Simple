@@ -1,7 +1,7 @@
 # IMovies — Movie Ticket Booking Made Simple
 
 > **Project Category:** Full-Stack Commercial Cinema Booking Web Platform  
-> **Project Owner:** Aditya Vishwakarma  
+> **Project Owner:** Samridhi Rathore  
 > **Stack:** MERN (MongoDB, Express.js, React.js 18 / Vite, Node.js v24) with Socket.IO, Multer & Razorpay  
 
 ---
