@@ -143,8 +143,7 @@ IMovies/
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/binarybrain-7/iMovies---Movie-Ticket-Booking-Made-Simple.git
-cd iMovies---Movie-Ticket-Booking-Made-Simple
+git clone https://github.com/cecelia-byte/iMovies---Movie-Ticket-Booking-Made-Simple
 ```
 
 ### Step 2: Install Dependencies
@@ -252,4 +251,4 @@ All **30 integration tests** pass cleanly with zero failures.
 ## 10. License & Author
 
 - **Author:** Samridhi Rathore  
-- **Project:** [iMovies — Movie Ticket Booking Made Simple](https://github.com/binarybrain-7/iMovies---Movie-Ticket-Booking-Made-Simple)  
+- **Project:** [iMovies — Movie Ticket Booking Made Simple](https://github.com/cecelia-byte/iMovies---Movie-Ticket-Booking-Made-Simple)  
